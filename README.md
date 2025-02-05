@@ -1,2 +1,3 @@
-# Whois Server List from IANA - Unofficial
-Whois servers of IANA TLDs domains
+# Whois Server List 2025
+TLDs - 1592
+
